@@ -16,6 +16,8 @@ public class Main {
             arr2[i] = arrInt[i+5];
             System.out.println(arr1[i]);
             System.out.println();
+            System.out.println();
+            System.out.println();
         }
 
 
